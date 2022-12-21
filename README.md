@@ -8,5 +8,8 @@ The app shows a list of the available reasons of movement with an icon and a sho
 At the personal info tab the user stores his info.  
 User taps their selection and the SMS is auto-composed with the recipient and SMS body.
 
-App icons by Icons8:  
-https://icons8.com
+App icons by Icons8: https://icons8.com
+
+Special thanks to Paul Hudson for his teaching material on Swift coding language:  
+https://www.hackingwithswift.com  
+https://github.com/twostraws
