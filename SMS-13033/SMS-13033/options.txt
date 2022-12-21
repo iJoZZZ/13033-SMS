@@ -1,0 +1,10 @@
+1:Health
+2:Supplies
+3:Bank
+4:Help
+4:School
+4:Transport
+5:Church
+5:Family
+6:Exercise
+6:Pet
